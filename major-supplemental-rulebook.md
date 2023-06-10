@@ -1,15 +1,15 @@
 # The CS Supplemental Rulebook
 
 ### Foreword
-The goal of the Major is to bring together the best Counter-Strike players in the world to a LAN setting, provide them an opportunity to claim their title, and to demonstrate to millions of CS players around the world just how high the Counter-Strike skill ceiling is.
+The goal of the Major is to bring together the best Counter-Strike players in the world in a LAN setting, provide them with an opportunity to claim their title, and demonstrate to millions of CS players around the world just how high the Counter-Strike skill ceiling is.
 
-The Major represents the pinnacle of Counter-Strike skill and provides an open invitation for the best in the world to participate regardless of their means or access.
+The Major represents the pinnacle of Counter-Strike skill and provides an open invitation for the best in the world to participate, regardless of their means or access.
 
 Historically, the rules and requirements for Majors have been communicated publicly through different channels or to partners privately. By consolidating them into a single document, we hope to eliminate inconsistencies across Valve-sponsored events and allow tournament operators to prepare their staff well in advance of their events.
 
-This document does not contain all of the rules of the tournament; only the ones we require to be uniform across all Major events. For the complete body of tournament rules for your event, contact the tournament organizer.
+This document does not contain all of the rules of the tournament; it only contains the ones we require to be uniform across all Major events. For the complete body of tournament rules for your event, contact the tournament organizer.
 
-If you would like to contact the CS team with questions or comments, feel free to send an email to csgoteamfeedback [at] valvesoftware.com, with the subject #MajorsRule.
+If you would like to contact the CS team with questions or comments, feel free to send an email to csgoteamfeedback [at] valvesoftware.com with the subject #MajorsRule.
 
 ## Tournament Organizer Obligations
 *What is expected of tournament organizers with respect to this document.*
